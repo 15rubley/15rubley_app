@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Курьер +15₽</string>
+    <string name="tab_shift">Смена</string>
+    <string name="tab_orders">Заказы</string>
+    <string name="tab_bike">Велик</string>
+    <string name="tab_shop">Колодки</string>
+    <string name="tab_chat">Чат</string>
+    <string name="tab_studio">Мем-чек</string>
+
+    <string name="status_online">На линии • Велокурьер</string>
+    <string name="status_offline">Перерыв • На обочине</string>
+    <string name="toggle_go_online">Выйти на смену</string>
+    <string name="toggle_go_offline">Встать на перерыв</string>
+
+    <string name="incoming_transfer_default_subtitle">Входящий перевод</string>
+    <string name="incoming_transfer_default_reason">На лечение</string>
+    <string name="incoming_transfer_default_amount">+ 15₽</string>
+
+    <string name="hero_image_cd">Велокурьер с термосумкой у велосипеда</string>
+    <string name="bank_badge_cd">Иконка входящего перевода</string>
+    <string name="share_meme">Поделиться мемом</string>
+    <string name="pick_photo">Выбрать своё фото</string>
+    <string name="reset_photo">Оригинал фото</string>
+    <string name="test_banner">Показать уведомление</string>
+    <string name="reset_preset">Сбросить</string>
+    <string name="refresh_orders">Найти заказы</string>
+
+    <string name="shift_timer_title">Таймер смены</string>
+    <string name="shift_timer_running">Идёт отсчёт</string>
+    <string name="shift_timer_paused">На паузе</string>
+    <string name="shift_timer_idle">Смена не начата</string>
+    <string name="shift_timer_dial_cd">Индикатор секунд таймера смены: %1$d секунд</string>
+
+    <string name="order_simulator_title">Симулятор заказов</string>
+    <string name="order_simulator_subtitle">Еда, доп. заказы и халтурки со случайной оплатой</string>
+    <string name="order_simulator_generate">Сгенерировать</string>
+    <string name="order_simulator_accept">Принять заказ</string>
+    <string name="order_simulator_queue">Добавить в список</string>
+</resources>

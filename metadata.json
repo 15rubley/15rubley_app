@@ -1,0 +1,6 @@
+{
+  "name": "Курьер +15₽",
+  "description": "Трекер смены велокурьера, симулятор заказов и генератор мем-чеков «На лечение +15₽»",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
